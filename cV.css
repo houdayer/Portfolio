@@ -235,18 +235,6 @@ div {
   opacity: 1;
     }
 }
-.cv .cvstephanehoudayer {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 198px;
-  height              : 1304px;
-  width               : 922px;
-  position            : absolute;
-  margin              : 0;
-  left                : 51px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
 .cv .links {
   background-color    : rgba(255,255,255,0.0);
   top                 : 42px;
@@ -596,6 +584,18 @@ div {
   text-align          : center;
   line-height         : 30.0px;
   text-decoration     : underline;
+}
+.cv .bitmap {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 198px;
+  height              : 1214px;
+  width               : 858px;
+  position            : absolute;
+  margin              : 0;
+  left                : 83px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
 }
 /* .anima-animate-appear prefix for appear animations */
 .anima-animate-appear {
