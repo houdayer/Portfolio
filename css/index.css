@@ -1350,7 +1350,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.bp1-index .bp1-logoabccompany .bp1-abclogo {
+.bp1-index .bp1-logoabccompany .bp1-abc1 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 60px;
@@ -2215,7 +2215,7 @@ div {
   letter-spacing      : 2.1px;
   line-height         : 17.01px;
 }
-.bp1-index .bp1-group4 .bp1-arrow {
+.bp1-index .bp1-group4 .bp1-combinedshape {
   background-color    : rgba(255,255,255,0.0);
   top                 : 2px;
   height              : 12px;
